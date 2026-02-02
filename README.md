@@ -52,7 +52,7 @@ Actualmente aplico estas competencias en el ámbito tecnológico y en proyectos 
 - 🇬🇧 **Inglés: nivel intermedio**
 - 🚗 **Carnet de conducir**
 - ⏱️ **Disponibilidad total**
-
+- 📍 **Residencia actual: Madrid**
 ---
 
 ## 💡 Objetivo profesional
