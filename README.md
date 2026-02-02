@@ -55,6 +55,7 @@ Actualmente aplico estas competencias en el ámbito tecnológico y en proyectos 
 
 
 ![Inglés Intermedio](https://img.shields.io/badge/English-Intermediate-007ACC?style=for-the-badge&logo=google&logoColor=white)
+
 ![Vivo en Madrid](https://img.shields.io/badge/Madrid-6C3483?style=for-the-badge&logo=maps&logoColor=white)
 
 ---
