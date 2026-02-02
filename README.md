@@ -71,3 +71,22 @@ Actualmente aplico estas competencias en el ámbito tecnológico y en proyectos 
 ---
 
 ⭐ *Motivado, responsable y con experiencia real en gestión de equipos*
+
+### 🛠️ Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎓 Formación y Aprendizaje
+![ConquerBlocks](https://img.shields.io/badge/ConquerBlocks-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Grado Superior Mecánica Naval](https://img.shields.io/badge/Grado%20Superior%20Mecánica%20Naval-005F73?style=for-the-badge&logo=education&logoColor=white)
+
+### 🌍 Idiomas y Localización
+![Inglés Intermedio](https://img.shields.io/badge/English-Intermediate-007ACC?style=for-the-badge&logo=google&logoColor=white)
+![Residencia Madrid](https://img.shields.io/badge/Madrid-6A1B9A?style=for-the-badge&logo=maps&logoColor=white)
+
+### 📋 Disponibilidad y Competencias
+![Disponibilidad Total](https://img.shields.io/badge/Disponibilidad-Total-00C853?style=for-the-badge)
+![Trabajo en equipo](https://img.shields.io/badge/Trabajo_en_Equipo-FFC107?style=for-the-badge)
+![Responsable](https://img.shields.io/badge/Responsable-F44336?style=for-the-badge)
+
