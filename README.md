@@ -26,9 +26,9 @@ Actualmente aplico estas competencias en el ámbito tecnológico y en proyectos 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-FBD137?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/-MySQL-00C853?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
 
 
 ---
@@ -52,14 +52,26 @@ Actualmente aplico estas competencias en el ámbito tecnológico y en proyectos 
 
   ![ConquerBlocks](https://img.shields.io/badge/ConquerBlocks-101010?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAA…) <!-- puedes usar tu propio logo si lo subes como imagen -->
 ![Grado Superior Mecánica Naval](https://img.shields.io/badge/Mecánica%20Naval-0077B6?style=for-the-badge&logo=engineering&logoColor=white)
+
 ---
 
 ## 🌍 Idiomas y otros datos
 
-- 🇬🇧 **Inglés: nivel intermedio**
-- 🚗 **Carnet de conducir**
-- ⏱️ **Disponibilidad total**
-- 📍 **Residencia actual: Madrid**
+
+![Inglés Intermedio](https://img.shields.io/badge/English-Intermediate-007ACC?style=for-the-badge&logo=google&logoColor=white)
+![Vivo en Madrid](https://img.shields.io/badge/Madrid-6C3483?style=for-the-badge&logo=maps&logoColor=white)
+
+---
+
+### 🚗 Habilidades & Disponibilidad
+
+---
+
+![Disponibilidad Total](https://img.shields.io/badge/Disponibilidad-100%25-00C853?style=for-the-badge)
+![Trabajo en Equipo](https://img.shields.io/badge/Teamwork-Collaboration-F39C12?style=for-the-badge&logo=slack&logoColor=white)
+![Responsable](https://img.shields.io/badge/Responsable-Reliable-D32F2F?style=for-the-badge&logo=check-circle&logoColor=white)
+
+
 ---
 
 ## 💡 Objetivo profesional
@@ -79,11 +91,7 @@ Actualmente aplico estas competencias en el ámbito tecnológico y en proyectos 
 
 ⭐ *Motivado, responsable y con experiencia real en gestión de equipos*
 
-![Inglés Intermedio](https://img.shields.io/badge/English-Intermediate-007ACC?style=for-the-badge&logo=google&logoColor=white)
-![Vivo en Madrid](https://img.shields.io/badge/Madrid-6C3483?style=for-the-badge&logo=maps&logoColor=white)
 
-### 🚗 Habilidades & Disponibilidad
-![Disponibilidad Total](https://img.shields.io/badge/Disponibilidad-100%25-00C853?style=for-the-badge)
-![Trabajo en Equipo](https://img.shields.io/badge/Teamwork-Collaboration-F39C12?style=for-the-badge&logo=slack&logoColor=white)
-![Responsable](https://img.shields.io/badge/Responsable-Reliable-D32F2F?style=for-the-badge&logo=check-circle&logoColor=white)
+
+
 
