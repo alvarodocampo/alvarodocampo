@@ -5,6 +5,15 @@
 
 ---
 
+## 💡 Objetivo profesional
+
+📌 Busco **oportunidades junior, prácticas o primeras experiencias profesionales** donde pueda:
+- Seguir aprendiendo de forma constante  
+- Aportar valor al equipo desde el primer día  
+- Desarrollarme como programador en un entorno profesional  
+
+---
+
 ## 🚀 Sobre mí
 
 Soy estudiante de desarrollo de software con una fuerte orientación al crecimiento profesional en el sector tecnológico.  
@@ -71,14 +80,7 @@ Actualmente aplico estas competencias en el ámbito tecnológico y en proyectos 
 
 ---
 
-## 💡 Objetivo profesional
 
-📌 Busco **oportunidades junior, prácticas o primeras experiencias profesionales** donde pueda:
-- Seguir aprendiendo de forma constante  
-- Aportar valor al equipo desde el primer día  
-- Desarrollarme como programador en un entorno profesional  
-
----
 
 ## 📫 Contacto
 
