@@ -41,10 +41,10 @@ Actualmente aplico estas competencias en el ámbito tecnológico y en proyectos 
 
 ## 🎓 Formación  
 
-- 🎓 ![ConquerBlocks](https://img.shields.io/badge/ConquerBlocks-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white) 
+- ![ConquerBlocks](https://img.shields.io/badge/ConquerBlocks-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white) 
   Formación orientada al desarrollo de software y proyectos prácticos, con enfoque en backend, bases de datos y trabajo colaborativo.
 
-- ⚙️ ![Grado Superior Mecánica Naval](https://img.shields.io/badge/Grado%20Superior%20Mecánica%20Naval-005F73?style=for-the-badge&logo=education&logoColor=white) 
+- ![Grado Superior Mecánica Naval](https://img.shields.io/badge/Grado%20Superior%20Mecánica%20Naval-005F73?style=for-the-badge&logo=education&logoColor=white) 
   Formación técnica que me ha aportado disciplina, capacidad analítica y mentalidad resolutiva.
 
 ---
