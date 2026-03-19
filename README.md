@@ -89,6 +89,7 @@ Actualmente aplico estas competencias en el ámbito tecnológico y en proyectos 
 ---
 
 ⭐ *Motivado, responsable y con experiencia real en gestión de equipos*
+⭐ *Actualmente sigo formandome en desarrollo backend y Spring Boot*
 
 
 
